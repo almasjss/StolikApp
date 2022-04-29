@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StolikApp</string>
+    <string name="didnt_get_otp_resend">Не получил OTP <b>Повторно отправлять</b></string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156865946163",
+    "project_id": "stolikapp-d0276",
+    "storage_bucket": "stolikapp-d0276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156865946163:android:898b36e2c7f502a2e0f946",
+        "android_client_info": {
+          "package_name": "kz.com.stolikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156865946163-k1ck8332hm27j4laiev6k6qbhj27q59q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.com.stolikapp",
+            "certificate_hash": "5b1ad89c19697a6da7e5690e3482475049326638"
+          }
+        },
+        {
+          "client_id": "156865946163-kgiq9i7eef62h32etc7vts4goon9mp6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jrSDiNlcK8jUC47jcw5AULjVLa6at7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156865946163-kgiq9i7eef62h32etc7vts4goon9mp6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
